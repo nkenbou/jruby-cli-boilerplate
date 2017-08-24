@@ -1,8 +1,6 @@
 Encoding.default_external = 'UTF-8'
 STDOUT.sync = true
 
-#require 'bundler/setup' unless ENV['OCRA_EXECUTABLE']
-require 'bundler/setup'
 require 'open-uri'
 require 'nokogiri'
 
