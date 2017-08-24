@@ -1,1 +1,1 @@
-@%~dp0jruby -S %~dp0gem_home\bin\bundle %*
+@%~dp0jruby.bat -S %~dp0gem_home\bin\bundle %*
